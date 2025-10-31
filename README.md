@@ -1,4 +1,6 @@
 # ConnectHub
+The Maker: Suryanshu Tiwari
+
 Project Theme: Social Media 
 
 Mentor: Sanjeevni Ma'am 
